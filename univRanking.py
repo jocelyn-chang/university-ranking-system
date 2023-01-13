@@ -1,11 +1,3 @@
-'''
-Lecture: COMPSCI 1026A 002
-Name: Jocelyn Chang
-
-This code generates an output.txt with information about universities in a selected country. This code provides information related to rankings and scores.
-'''
-
-
 def loadCVSData(filename1, filename2):  # function to clean files and convert information into a list
     info = []
     capitalUni = []  # will temporarily hold the used content of filename2
